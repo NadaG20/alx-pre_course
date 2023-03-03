@@ -1,1 +1,2 @@
-My first Readme is so amazing
+another readme for 0x01.git
+README update from github.com
